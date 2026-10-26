@@ -1,0 +1,6 @@
+local/
+*.local.*
+examples/private-overlay.md
+__pycache__/
+*.pyc
+.venv/
